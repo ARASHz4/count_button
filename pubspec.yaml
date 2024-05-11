@@ -1,6 +1,6 @@
 name: count_button
 description: "Count Button"
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/ARASHz4/count_button
 
 environment:
